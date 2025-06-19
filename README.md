@@ -65,7 +65,7 @@ I'm certified in Microsoft licensing and specialize in helping organizations app
 
 - 📧 [abdullateefoni@yahoo.com](mailto:abdullateefoni@yahoo.com)  
 - 🌐 [Medium](https://medium.com/@abdullateefoni)  
-- 💼 [LinkedIn](https://linkedin.com/in/abdullateefoni)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullateef-oni-8b5a01110/)
 
 ---
 
