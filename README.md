@@ -31,10 +31,13 @@ I design and optimize cloud infrastructure with a strong focus on cost-efficienc
 
 ### 📜 Certifications
 
-- ✅ [FinOps Certified Practitioner](https://link-to-your-cert.verifiable.io)  
-- ✅ [AWS Certified Solutions Architect – Associate](https://link-to-your-cert.aws.training)  
-- ✅ [Microsoft Licensing Specialist (Windows & SQL)](https://link-to-pdf-or-portfolio)
-- ✅ [Azure Administrator](https://learn.microsoft.com/api/credentials/share/en-us/ONIABDULLATEEF-8289/BCCC06A5B6F4C428?sharingId=E21BA6A874FEB607)
+- ✅ [FinOps Certified Practitioner](http://verify.skilljar.com/c/eo87d8w5itwh)  
+- ✅ [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b39bd6dd-0f10-4750-bff4-f2c72a955de4/)
+- ✅ [Azure Administrator Associate](https://learn.microsoft.com/en-us/users/oniabdullateef-8289/credentials/bccc06a5b6f4c428)
+- ✅ [Microsoft Licensing Specialist (Windows & SQL)](https://drive.google.com/file/d/1dxzFVYyEV5I5NnVGJcF6wiU8ecniueEg/view?usp=sharing)
+- ✅ [Microsoft Licensing Specialist CSP Program](https://drive.google.com/file/d/1uh4Ddx0R7vxccxBHB6XdkC_rjnZVHdpZ/view?usp=sharing)
+- ✅ [Azure Collaborator - Well-Architected Framework](https://www.credly.com/badges/c1105201-1ecd-4b27-8c55-d10478a3b99c)
+- ✅ [Microsoft Licensing Specialist Azure Solutions](https://drive.google.com/file/d/1-Mlqyo5_rFsbR9FTo62ff0jiGwgR-HGH/view?usp=sharing)
 
 ---
 
