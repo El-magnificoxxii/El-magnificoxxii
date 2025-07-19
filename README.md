@@ -48,6 +48,7 @@ I design and optimize cloud infrastructure with a strong focus on cost-efficienc
 - 🧮 [Microsoft Sentinel Cost Estimation](https://medium.com/@abdullateefoni/estimating-microsoft-sentinel-costs-understanding-key-components-02ac92f3cf1c)
 - 🧮 [Azure VM Hosting with Cost Optimization Focus](https://github.com/El-magnificoxxii/Azure-Refresher/tree/main/azure-webserver-windows)
 - 🧮 [Azure Point-to-Site VPN Deployment](https://github.com/El-magnificoxxii/Azure-Refresher/tree/main/Point-to-Site-Connection)
+- 🧮 [Deploying Jumpbox Server through Terrraform ](https://medium.com/@abdullateefoni/deploying-a-jumpbox-server-in-azure-using-terraform-70e7eca2cc8f)
 - 🛠️ [GitHub FinOps Tagging Framework (Coming Soon)](#)
 
 ---
