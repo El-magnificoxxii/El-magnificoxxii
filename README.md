@@ -24,7 +24,7 @@ I design and optimize cloud infrastructure with a strong focus on cost-efficienc
 `Azure` • `AWS` • `Terraform` • `ARM/Bicep` • `Azure Policy` • `Azure Virtual Network (VNet)` • `NSG` • `Load Balancer`  
 `Azure Bastion` • `Storage Accounts` • `Azure Backup` • `Recovery Services Vault` • `Azure Key Vault` • `Cost Management`  
 `Microsoft Sentinel` • `Azure Monitor` • `ASR` • `Azure Front Door`  
-`Windows Server & SQL Licensing (Azure Hybrid Benefit)` • `Reservations & Savings Plans` • `Spot VMs` • `Snowflake`
+`Windows Server & SQL Licensing (Azure Hybrid Benefit)` • `Reservations & Savings Plans` • `Spot VMs` • `Azure VM`
 
 ---
 
