@@ -38,6 +38,7 @@ I design and optimize cloud infrastructure with a strong focus on cost-efficienc
 - ✅ [Microsoft Licensing Specialist CSP Program](https://drive.google.com/file/d/1uh4Ddx0R7vxccxBHB6XdkC_rjnZVHdpZ/view?usp=sharing)
 - ✅ [Azure Collaborator - Well-Architected Framework](https://www.credly.com/badges/c1105201-1ecd-4b27-8c55-d10478a3b99c)
 - ✅ [Microsoft Licensing Specialist Azure Solutions](https://drive.google.com/file/d/1-Mlqyo5_rFsbR9FTo62ff0jiGwgR-HGH/view?usp=sharing)
+- ✅ [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/34fe9833-8960-4155-9cd6-232923b0d427)
 
 ---
 
@@ -45,6 +46,7 @@ I design and optimize cloud infrastructure with a strong focus on cost-efficienc
 ### ✍️ Articles & Projects
 
 - 🧮 [Microsoft Sentinel Cost Estimation](https://medium.com/@abdullateefoni/estimating-microsoft-sentinel-costs-understanding-key-components-02ac92f3cf1c)
+- 🧮 [Azure VM Hosting with Cost Optimization Focus](https://github.com/El-magnificoxxii/Azure-Refresher/tree/main/azure-webserver-windows)
 - 🛠️ [GitHub FinOps Tagging Framework (Coming Soon)](#)
 
 ---
